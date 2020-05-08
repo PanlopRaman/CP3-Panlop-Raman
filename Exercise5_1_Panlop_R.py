@@ -1,0 +1,8 @@
+print("----------------------")
+x = int(input("input 1st no. : "))
+y = int(input("input 2nd no. : "))
+print( x, "+", y, "=", x+y)
+print( x, "-", y, "=", x-y)
+print( x, "*", y, "=", x*y)
+print( x, "/", y, "=", int(x/y))
+print("----------------------")
